@@ -5,7 +5,7 @@ from django.conf.urls.static import static
 from django.contrib.auth import views as auth_views
 from saler.views import admin2
 from django.views.static import serve
-from django.conf.urls import url
+from django.urls import re_path as url
 
 urlpatterns = [
     path('wrappers/my/admin/pannel/home/', admin.site.urls),
