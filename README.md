@@ -1,3 +1,3 @@
-# Wrappers-India-Online
+# Easy Shopping
 E Commerce Project
-Video Link https://youtu.be/gTKKXUt2z0s
+Live link : 
